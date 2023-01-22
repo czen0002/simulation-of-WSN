@@ -1,2 +1,2 @@
-# simulation-of-WSN
-A simulation of fully distributed wireless sensor network
+# A simulation of fully distributed wireless sensor network
+Wireless sensor network (WSN) is comprised of senor nodes that can collect data and communicate with other sensors and a base station. This project presents an Inter Process Communication architecture MPI Cartesian Topology to implement a simulated distributed wireless sensor network. This WSN is capable of detecting whether a sensor received more than three same numbers from its adjacent nodes. All passing messages through the network are encrypted using XOR algorithm. OpenMP is implemented in XOR algorithm, but it does not improve the performance of encryption.
